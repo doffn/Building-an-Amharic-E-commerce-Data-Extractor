@@ -1,6 +1,3 @@
-Here is the full `README.md` file content for your **EthioMart Amharic E-commerce NER Project** — optimized for GitHub, professional presentation, and aligned with the tasks and structure of your challenge:
-
----
 
 ```markdown
 # 🛍️ EthioMart Amharic E-commerce NER Project
