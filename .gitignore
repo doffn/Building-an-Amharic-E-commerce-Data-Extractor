@@ -1,0 +1,26 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and outputs
+*.log
+outputs/
+
+# Ignore Telethon session file
+*.session
+*.session-journal
