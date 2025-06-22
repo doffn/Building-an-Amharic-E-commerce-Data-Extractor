@@ -10,4 +10,6 @@ shap
 lime
 python-dotenv
 matplotlib
-notebook
+git+https://github.com/chakresh87/amharic-tokenizer.git
+cleantext
+emoji

@@ -1,4 +1,3 @@
-
 ```markdown
 # 🛍️ EthioMart Amharic E-commerce NER Project
 
