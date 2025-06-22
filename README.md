@@ -26,6 +26,7 @@ Telegram has become a powerful marketplace in Ethiopia. However, the lack of str
 ├── notebooks/               \# Jupyter notebooks (EDA, training, interpretability)
 │   ├── task1_2.ipynb        \# Notebook for task 1 and 2
 │
+├── photos/                  \# Photos scraped
 ├── scripts/                 \# Python scripts for scraping, labeling, training, etc.
 │   ├── telegram_scraper.py   \# Script to extract message from telegram channels
 │
