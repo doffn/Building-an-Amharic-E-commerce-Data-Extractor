@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+```markdown
+=======
 
+>>>>>>> fd1c9bff59e0bdcdee5413b274c121571d1defe6
 # 🛍️ EthioMart Amharic E-commerce NER Project
 
 A 10 Academy AI Mastery Week 4 challenge to build a multilingual **Named Entity Recognition (NER)** system that extracts business-critical entities from Amharic Telegram messages. This project supports **EthioMart's vision** to centralize e-commerce activity and enable smart vendor evaluation for micro-lending.
