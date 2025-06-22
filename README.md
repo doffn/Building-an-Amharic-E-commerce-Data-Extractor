@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-```markdown
-=======
 
->>>>>>> fd1c9bff59e0bdcdee5413b274c121571d1defe6
 # 🛍️ EthioMart Amharic E-commerce NER Project
 
 A 10 Academy AI Mastery Week 4 challenge to build a multilingual **Named Entity Recognition (NER)** system that extracts business-critical entities from Amharic Telegram messages. This project supports **EthioMart's vision** to centralize e-commerce activity and enable smart vendor evaluation for micro-lending.
@@ -23,16 +19,15 @@ Telegram has become a powerful marketplace in Ethiopia. However, the lack of str
 
 ├── data/
 │   ├── raw/                 \# Scraped Telegram posts (text, images)
-│   ├── processed/           \# Cleaned and tokenized data
-│   └── labelled/            \# CoNLL formatted labeled data
-│
-├── models/                  \# Fine-tuned model checkpoints
+|       ├── channels.txt      \# Channels used for scrapping
+|       ├── labeled_data_from_df.conll   \# samples for labeled data
+|       ├── telegram_data.csv            \# Scrapped Datas
 │
 ├── notebooks/               \# Jupyter notebooks (EDA, training, interpretability)
+│   ├── task1_2.ipynb        \# Notebook for task 1 and 2
 │
 ├── scripts/                 \# Python scripts for scraping, labeling, training, etc.
-│
-├── outputs/                 \# Evaluation reports, visualizations, vendor scorecards
+│   ├── telegram_scraper.py   \# Script to extract message from telegram channels
 │
 ├── .github/workflows/       \# GitHub Actions CI/CD workflows
 │
