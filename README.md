@@ -86,7 +86,7 @@ The general workflow involves:
 
 *(Note: The provided notebook content (`task3_4ipynb.ipynb`) was partial and primarily showed progress bar outputs for model and tokenizer downloads and dataset mapping. Therefore, detailed Python code snippets for the entire fine-tuning and evaluation process could not be extracted directly.)*
 
-* Model can be accessed using this URL: [LINK 🔗]([https://huggingface.co/doffn/tenx_best_NLP_model](https://huggingface.co/doffn/tenx_best_NLP_model/tree/main))
+* Model can be accessed using this URL: [LINK🔗]([https://huggingface.co/doffn/tenx_best_NLP_model](https://huggingface.co/doffn/tenx_best_NLP_model/tree/main))
 
 ---
 
